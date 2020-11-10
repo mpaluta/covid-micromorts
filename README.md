@@ -1,2 +1,2 @@
 # covid-micromorts
-Assessing personal risk of death by COVID-19
+Assessing my personal risk of death by COVID-19 in King County
